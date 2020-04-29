@@ -1,5 +1,8 @@
 # Example react-redux project (Loan Calculator)
 
+By manipulating sliders, values in proper stores get changed and API call with latest values from both sliders is executed.
+Response (format provided below) comes and total interests and monthly cost of loan is being updated in real time.
+
 ## Implemented with
 
 - Typescript [https://www.typescriptlang.org/]
